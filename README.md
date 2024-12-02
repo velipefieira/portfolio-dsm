@@ -93,22 +93,21 @@ O objetivo do projeto é o desenvolvimento de um sistema para coleta de dados de
 
 #### Contribuições pessoais
 
-- Neste projeto atuei como Product Owner, conversei com a representante da Youtan, para entender suas necessidades e poder prototipar um produto que solucione o gerenciamento dos ativos, elaborei o Product Backlog para planejamento e priorização das funcionalidades, um wireframe para auxiliar o Dev Team no desenvolvimento das interfaces do sistema, desenvolvi algumas funcionalidades, como o Login/Autenticação do usuário, um Dashboard com indicativos sobre os ativos e ajudei alguns integrantes a resolver dificuldades e dúvidas técnicas que poderiam atrasar suas entregas, principalmente relacionado ao uso do Java no back-end.
+- Neste projeto atuei como integrante do Dev Team, desenvolvi funcionalidades como o formulário para cadastro das estações metereológicas, o processamento dos dados no back-end, seu envio para o banco de dados e sua visualização na interface, fiquei responsável pelo deploy da aplicação e dos microserviços ligados a mesma, além de implementar técnicas de CI/CD para automatização do processo de deploy sempre que o sistema possuir uma nova versão estável.
 
 #### Aprendizados Efetivos
 
 ##### Hardskills:
-- Linguagem Java e Framework Spring: Possuo habilidade autônoma na área.
-- Banco de dados relacional MySQL: Possuo habilidade autônoma na área.
+- Linguagem Typescript e Framework Node.JS: Possuo habilidade autônoma na área.
+- Banco de dados relacional não relacional Firebase: Possuo habilidade autônoma na área.
 - Framework React e estilização com CSS 3: Possuo habilidade autônoma na área.
-- Prototipação e design de interfaces: Posso realizar com suporte.
-- Metodologia Ágil SCRUM: Possuo habilidade autônoma na área.
-
+- Integração com dispositivos IOT: Posso habilidade autônoma na área.
+- Deploy automático com Docker e AWS: Possuo realizar com suporte.
 
 ##### Softskills:
-- Desenvolvi melhor minha comunicação, para superir a timidez e conseguir me comunicar tanto com a cliente quanto com a equipe de forma mais eficaz.
-- Aprimorei meu pensamento crítico, para avaliar a prioridade das funcionalidades do sistema e organizar uma forma mais ágil de planejar as sprints da equipe.
-- Melhorei minha proatividade, para ser propositivo com uma nova funcionalidade ou visual do sistema a cliente e conferir se os membros do Dev Team estavam passando por alguma dificuldade técnica que atrapalhariam suas entregas.
+- Melhorei minha organização, para não atrasar minhas entregas por conta de problemas de saúde que atrapalharam meu planejamento inicial, e reduziram meu prazo para entregar sem prejudicar a equipe.
+- Melhorei minha comunicação e capacidade analítica, para entender as funcionalidades desenvolvidas por outros integrantes e poder eventualmente ajudá-los ou incrementar seu código caso necessário.
+- Melhorei minha proatividade, para procurar suporte com professores e videos que poderiam me ajudar a preparar o ambiente para deploy e sua automatização.
 
 <br/>
 
@@ -142,25 +141,26 @@ O objetivo do projeto é o desenvolvimento de uma solução para o gerenciamento
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=black&color=9dd2d8"/> 
 <p></p>
 
-
 #### Contribuições pessoais
 
-- Neste projeto atuei como integrante do Dev Team, desenvolvi funcionalidades como o formulário para cadastro das estações metereológicas, o processamento dos dados no back-end, seu envio para o banco de dados e sua visualização na interface, fiquei responsável pelo deploy da aplicação e dos microserviços ligados a mesma, além de implementar técnicas de CI/CD para automatização do processo de deploy sempre que o sistema possuir uma nova versão estável.
+- Neste projeto atuei como Product Owner, conversei com a representante da Youtan, para entender suas necessidades e poder prototipar um produto que solucione o gerenciamento dos ativos, elaborei o Product Backlog para planejamento e priorização das funcionalidades, um wireframe para auxiliar o Dev Team no desenvolvimento das interfaces do sistema, desenvolvi algumas funcionalidades, como o Login/Autenticação do usuário, um Dashboard com indicativos sobre os ativos e ajudei alguns integrantes a resolver dificuldades e dúvidas técnicas que poderiam atrasar suas entregas, principalmente relacionado ao uso do Java no back-end.
 
 #### Aprendizados Efetivos
 
 ##### Hardskills:
-- Linguagem Typescript e Framework Node.JS: Possuo habilidade autônoma na área.
-- Banco de dados relacional não relacional Firebase: Possuo habilidade autônoma na área.
+- Linguagem Java e Framework Spring: Possuo habilidade autônoma na área.
+- Banco de dados relacional MySQL: Possuo habilidade autônoma na área.
 - Framework React e estilização com CSS 3: Possuo habilidade autônoma na área.
-- Integração com dispositivos IOT: Posso habilidade autônoma na área.
-- Deploy automático com Docker e AWS: Possuo realizar com suporte.
+- Prototipação e design de interfaces: Posso realizar com suporte.
+- Metodologia Ágil SCRUM: Possuo habilidade autônoma na área.
+
 
 ##### Softskills:
-- Melhorei minha organização, para não atrasar minhas entregas por conta de problemas de saúde que atrapalharam meu planejamento inicial, e reduziram meu prazo para entregar sem prejudicar a equipe.
-- Melhorei minha comunicação e capacidade analítica, para entender as funcionalidades desenvolvidas por outros integrantes e poder eventualmente ajudá-los ou incrementar seu código caso necessário.
-- Melhorei minha proatividade, para procurar suporte com professores e videos que poderiam me ajudar a preparar o ambiente para deploy e sua automatização.
+- Desenvolvi melhor minha comunicação, para superir a timidez e conseguir me comunicar tanto com a cliente quanto com a equipe de forma mais eficaz.
+- Aprimorei meu pensamento crítico, para avaliar a prioridade das funcionalidades do sistema e organizar uma forma mais ágil de planejar as sprints da equipe.
+- Melhorei minha proatividade, para ser propositivo com uma nova funcionalidade ou visual do sistema a cliente e conferir se os membros do Dev Team estavam passando por alguma dificuldade técnica que atrapalhariam suas entregas.
 
+<br/>
 <br/>
 
 ### API 2° Semestre - 2023.2
